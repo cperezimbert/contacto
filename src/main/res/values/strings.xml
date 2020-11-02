@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contacto</string>
+    <string name="lblContacto">Por favor complete los datos a continuación:</string>
+    <string name="lblNombre">Nombre:*</string>
+    <string name="lblEmail">E-mail:*</string>
+    <string name="lblTelefono">Teléfono:</string>
+    <string name="lblMensaje">Mensaje:*</string>
+    <string name="lblAviso">*Datos obligatorios.</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="Gracias">Gracias por su contacto!\n Responderemos a la brevedad.</string>
+    <string name="lblFecha">Fecha de Nacimiento:</string>
+    <string name="btnEditar">Editar</string>
+    <string name="btnConfirmar">Confirmar</string>
+</resources>
